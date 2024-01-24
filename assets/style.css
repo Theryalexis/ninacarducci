@@ -67,7 +67,10 @@ img {
 
 }
 #about-me {
-	flex: 2
+	flex: 2;
+	width: 100%;
+    max-width: 800px;
+    height: auto;
 }
 .about-me__title {
 	margin-top: 1em;
