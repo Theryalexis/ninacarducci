@@ -3,8 +3,11 @@ body {
 	margin: auto;
 }
 * {
-	font-family: 'Inter';
+	font-family: 'Inter', "arial", serif;
 	font-style: normal;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
 img {
     width: 100%;
@@ -39,6 +42,7 @@ img {
 }
 .social-link img {
 	width: 20px;
+	height: 20px;
 }
 #about {
 	display: flex;
