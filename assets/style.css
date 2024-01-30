@@ -100,7 +100,7 @@ img {
 	background-color: #E5975F;
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-	color: #000;
+	color: #FFFFFF;
 	background-color: #000;
 	border-radius:0 ;
 }
